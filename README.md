@@ -1,14 +1,7 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on an app
-- 🌱 I’m currently learning learning how to build apps
-- 😄 Pronouns: HIM
-### ⚡ Fun fact: [insert fun fact]
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulkahura&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulkahura&show_icons=true&theme=tokyonight&hide_border=true)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulkahura&label=Profile%20views&color=0e75b6&style=flat" alt="paulkahura" /> </p>
 
@@ -33,8 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulkahura&show_icons=true&locale=en&layout=compact" alt="paulkahura" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulkahura&show_icons=true&locale=en" alt="paulkahura" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulkahura&show_icons=true&theme=tokyonight&hide_border=true" alt="paulkahura" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulkahura&" alt="paulkahura" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=paulkahura&theme=tokyonight&hide_border=true" alt="paulkahura" /></p>
 
 
