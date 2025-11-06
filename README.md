@@ -1,10 +1,6 @@
 
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Angular,Node, GCP**
-
-- 👨‍💻 All of my projects are available at [threepointdevs.com](threepointdevs.com)
-
 - 💬 Ask me about **python, vue, Angular, Java**
 
 - 📫 How to reach me **pablokahura@gmail.com**
